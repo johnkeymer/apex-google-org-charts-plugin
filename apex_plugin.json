@@ -1,0 +1,35 @@
+{
+  "name" : "APEX Google Organization Chart Plugin",
+  "version" : "1.0",
+  "description" : "Render an Organization Chart using the Google Charts API",
+  "keywords" : ["google","charts","api","organization","position","structure"],
+  "homepage" : "https://github.com/johnkeymer/apex-google-org-charts-plugin",
+  "bugs" : {
+    "url" : "https://github.com/johnkeymer/apex-google-org-charts-plugin/issues",
+    "email" : "keymer.john@gmail.com"
+  },
+  "license" : "MIT",
+  "author" : {
+    "name" : "John Keymer",
+    "email" : "keymer.john@gmail.com",
+    "url" : "http://www.wegobeyond.co.uk/blog/blogger/listings/johnkeymer.html",
+    "twitter" : "keymer_john",
+    "donationUrl" : "http://paypal.me/JohnKeymer"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/johnkeymer/apex-google-org-charts-plugin.git"
+  },
+  "oracle" : {
+    "versions" : ["11.2.0.1", "12.1.0.1", "12.2.0.1"],
+    "apex" : {
+      "versions" : ["5.0.0", "5.1.0"],
+      "plugin" : {
+        "internalName" : "KEYMER.JOHN.GOOGLE_ORG_CHART",
+        "type" : "region",
+        "demo" : "https://apex.oracle.com/pls/apex/f?p=67914",
+        "previewImage" : "https://raw.githubusercontent.com/johnkeymer/apex-google-org-charts-plugin/preview.png"
+      }
+    }
+  }
+}
