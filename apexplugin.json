@@ -28,7 +28,7 @@
         "internalName" : "KEYMER.JOHN.GOOGLE_ORG_CHART",
         "type" : "region",
         "demo" : "https://apex.oracle.com/pls/apex/f?p=67914",
-        "previewImage" : "https://raw.githubusercontent.com/johnkeymer/apex-google-org-charts-plugin/preview.png"
+        "previewImage" : "https://github.com/johnkeymer/apex-google-org-charts-plugin/blob/master/preview.png?raw=true"
       }
     }
   }
