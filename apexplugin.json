@@ -1,6 +1,6 @@
 {
   "name" : "APEX Google Organization Chart Plugin",
-  "version" : "1.0",
+  "version" : "0.2",
   "description" : "Render an Organization Chart using the Google Charts API",
   "keywords" : ["google","charts","api","organization","position","structure"],
   "homepage" : "https://github.com/johnkeymer/apex-google-org-charts-plugin",
