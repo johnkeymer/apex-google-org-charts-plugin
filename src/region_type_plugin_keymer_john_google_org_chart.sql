@@ -218,8 +218,8 @@ wwv_flow_api.create_plugin_std_attribute(
  p_id=>wwv_flow_api.id(68743497040614881)
 ,p_plugin_id=>wwv_flow_api.id(68743289782614874)
 ,p_name=>'SOURCE_SQL'
-,p_sql_min_column_count=>5
-,p_sql_max_column_count=>5
+,p_sql_min_column_count=>4
+,p_sql_max_column_count=>4
 ,p_depending_on_has_to_exist=>true
 ,p_examples=>wwv_flow_string.join(wwv_flow_t_varchar2(
 'Select null link, ''1'' key_value, ''Value'' display_value, '''' parent_key',
