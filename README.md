@@ -3,6 +3,7 @@ Plugin to render an organization chart in APEX using the Google Charts API.
 
 ## Change history
 - V0.1    Initial version
+- V0.3    Bug Fix on Column Numbers
 
 ## Requirements
 This plugin can be used from Apex 5.0 onwards.
